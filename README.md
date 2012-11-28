@@ -1,7 +1,7 @@
 gitconfig
 =========
 
-'''
+```
 [user]
 	email = alfred.gamulo@gmail.com
 	name = Alfred Gamulo
@@ -9,4 +9,4 @@ gitconfig
 	editor = vim
 [color]
 	ui = true
-'''
+```
